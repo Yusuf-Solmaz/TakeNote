@@ -1,7 +1,8 @@
-package com.yusuf.takenote
+package com.yusuf.takenote.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.yusuf.takenote.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
